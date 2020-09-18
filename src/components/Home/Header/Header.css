@@ -1,0 +1,19 @@
+.header img {
+    width: 120px;
+}
+
+.route-link {
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.login-link {
+    width: 104px;
+    height: 44px;
+    border-radius: 10px;
+    background-color: #F9A51A;
+    margin-top: 39px;
+    border: none;
+    margin-left: 20px;
+}

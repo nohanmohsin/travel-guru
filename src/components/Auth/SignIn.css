@@ -1,0 +1,29 @@
+.sign-in-container{
+    background-image: url('../../Image/Rectangle 1.png');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: auto;
+}
+.auth{
+    text-align: center;
+    background-color: white;
+    width: 40%;
+    border-radius: 20px;
+    margin: 20px;
+    margin-left: 20%;
+}
+.info-in {
+    width: 90%;
+    border: none;
+    background-color: rgb(243, 243, 243);
+}
+.login-link2{
+    width: 104px;
+    height: 44px;
+    background-color: #F9A51A;
+    margin-top: 39px;
+    border: none;
+    margin-left: 20%;
+}

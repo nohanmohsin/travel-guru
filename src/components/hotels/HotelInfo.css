@@ -1,0 +1,13 @@
+.info-container {
+    height: 189px;
+    width: 600px;
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
+.info-container img {
+    width: 270px;
+    height: 188px;
+}
+.white{
+    color: white;
+}

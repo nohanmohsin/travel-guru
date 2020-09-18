@@ -1,0 +1,20 @@
+.booking {
+    background-image: url('../../Image/Rectangle 1.png');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: auto;
+    
+}
+
+.booking-info{
+    width: 50%;
+}
+.booking-card {
+    padding: 10px;
+    background-color: aliceblue;
+    height: 427px;
+    border-radius: 20px;
+    width: 470px;
+}
