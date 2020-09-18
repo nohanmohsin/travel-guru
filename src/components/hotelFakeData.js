@@ -49,26 +49,26 @@ const hotelFakeData = [{
 {
     name: "bhalo hotel",
     id: "1",
-    price:"57",
-    quantity: ['4', '3', '2', '1'],
+    price:"67",
+    quantity: ['4', '3', '2', '2'],
     cancellation: false,
-    place: "SUNDARBANS"
+    place: "SUNDARBAN"
 },
 {
     name: "kipta hotel",
     id: "1",
-    price:"57",
-    quantity: ['4', '3', '2', '1'],
+    price:"77",
+    quantity: ['4', '3', '3', '2'],
     cancellation: false,
-    place: "SUNDARBANS"
+    place: "SUNDARBAN"
 },
 {
     name: "kipta hotel",
     id: "1",
-    price:"57",
-    quantity: ['4', '3', '2', '1'],
+    price:"97",
+    quantity: ['4', '4', '3', '2'],
     cancellation: false,
-    place: "SUNDARBANS"
+    place: "SUNDARBAN"
 }
 ]
 export default hotelFakeData;
